@@ -12,7 +12,7 @@
 const tips = function(msg){
 	mdui.snackbar({
 		message : msg,
-		position:'right-top',
+		position:'right-bottom',
 		timeout : 3000,
 		buttonText : 'Close',
 	});

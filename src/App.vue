@@ -146,10 +146,10 @@
 		top:64px;
 		left:500px;
 		right:0;
-		height:50px;
+		height:24px;
 		z-index:10001;
 	}
 	.text {
-		margin-top:50px;
+		margin-top:24px;
 	}
 </style>
